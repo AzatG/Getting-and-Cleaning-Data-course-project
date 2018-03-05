@@ -1,4 +1,11 @@
 # CODEBOOK
+
+# steps of analysis that were done are written in README
+# Finally we get new tidy data 
+# this codebook detalises the content of tidy data
+
+
+
 # tidyata.txt  file's parameters are detailed int this document
 
  [1] subjectid - subjects performed exercises (1-30)
