@@ -1,3 +1,4 @@
+# CODEBOOK
 # tidyata.txt  file's parameters are detailed int this document
 
  [1] subjectid - subjects performed exercises (1-30)
